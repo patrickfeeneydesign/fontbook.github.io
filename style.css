@@ -104,6 +104,7 @@ header h2 {
   font-size: 80px;
   line-height: 100px;
   border-radius: 20px;
+  padding: 20px;
 }
 main h2 {
   margin-left: 40px;
