@@ -129,7 +129,7 @@
     font-weight: 400;
     font-style: italic;
     font-size: calc(1vw + 4pt);
-    line-height: 1.8vw;
+    line-height: cacl(1.8vw + 4px);
   }
   /* HOVER */
   .container:hover {
