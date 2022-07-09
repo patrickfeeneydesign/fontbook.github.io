@@ -132,10 +132,10 @@
     line-height: cacl(1.8vw + 3px);
   }
   @media screen and (min-width: 0px) and (max-width: 400px) {
-    #body{ display: none; }  /* hide it on smaller screen */
+    .body{ display: none; }  /* hide it on smaller screen */
   }
   @media screen and (min-width: 401px) and (max-width: 1024px) {
-    #body{ display: block; }   /* show it on larger screens */
+    .body{ display: block; }   /* show it on larger screens */
   }
   /* HOVER */
   .container:hover {
